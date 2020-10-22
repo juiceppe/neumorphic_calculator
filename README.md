@@ -1,4 +1,4 @@
-# neumorphic_calculator
+# Neumorphic Calculator
 
 A simple Calculator with neumorphic design 
 
